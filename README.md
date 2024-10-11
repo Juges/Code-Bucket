@@ -1,2 +1,2 @@
 # Code-Bucket
-This is Juges Debnath, I like data science for which I'm into R and Python programming. Together we can explore the world.
+A centralized repository for all code and resources related to the Multiverse AI framework. This section contains modular components, algorithms, and example implementations that showcase the capabilities of generative AI. Designed for ease of use, the Code-Bucket allows developers to quickly access and integrate various features into their projects. Whether you’re looking to build custom models or experiment with existing algorithms, Code-Bucket serves as your go-to resource for unlocking the full potential of the Multiverse framework.
